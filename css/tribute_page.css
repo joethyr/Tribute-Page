@@ -1,0 +1,30 @@
+#main {
+  margin: auto;
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  background-color: rgba(160, 136, 89, 0.308);
+}
+#image {
+  max-width: 22%;
+  display: block;
+  margin: auto;
+}
+#img-caption {
+  display: block;
+  font-style: italic;
+  text-align: center;
+}
+
+#tribute-info {
+  margin: 2% 15%;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Crimson Text", serif;
+}
